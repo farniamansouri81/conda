@@ -159,3 +159,4 @@ More information
 * :doc:`Conda cheat sheet <cheatsheet>`
 * `Full documentation <https://conda.io/docs/>`_
 * `Free community support <https://groups.google.com/a/anaconda.com/forum/#!forum/anaconda>`_
+conda install -c conda-forge pymol
